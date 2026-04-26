@@ -57,4 +57,3 @@
 </p>
 
 <br>
-<p align="right"> Created with 🧡 by <a href="https://github.com/henao06-">Sebastian</a></p>
