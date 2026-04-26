@@ -92,4 +92,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF4500&height=120&section=footer"/>
 </p>
-vv
