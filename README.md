@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 
 <p align="center">
-  <img src="itachi_animation_by_luisbentoart_dc1x5jz.gif" width="300" />
+  <img src="itachi.gif" width="300" />
 </p>
 
 <p align="center">
