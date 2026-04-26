@@ -6,9 +6,7 @@
   <img src="itachi.gif" width="300" />
 </p>
 
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=henao06&label=Profile%20views&color=0e75b6&style=flat" alt="henao06" />
-</p>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Developer+%26+Student;Python+%7C+React+%7C+JavaScript;Always+learning%2C+always+building;Clean+code+enthusiast" alt="Typing SVG" /></a>
@@ -52,4 +50,8 @@
 <a href="mailto:uberhenao06@gmail.com"><img src="https://img.shields.io/badge/Email-uberhenao06%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=henao06&label=Profile%20views&color=0e75b6&style=flat" alt="henao06" />
+</p>
 <br>
