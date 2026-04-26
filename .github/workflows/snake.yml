@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # cada 12 horas
-  workflow_dispatch: # permite ejecutarlo manualmente
+    - cron: "0 */72 * * *" 
+  workflow_dispatch: 
 
 jobs:
   build:
