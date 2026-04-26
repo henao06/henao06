@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF4500&height=200&section=header&text=Sebastian&fontColor=ffffff&fontSize=70&fontAlignY=35&animation=twinkling"/>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=8B0000&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Sebastian" alt="Typing SVG" /></a>
