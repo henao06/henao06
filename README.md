@@ -38,7 +38,7 @@
 
 - <img src="https://img.shields.io/badge/⚡_Fun_Fact-I_code,_therefore_I_am-8B0000?style=flat-square" />
 
-- <img src="https://img.shields.io/badge/🐧_OS-Linux-FF4500?style=flat-square&logo=linux&logoColor=white" />
+- <img src="https://img.shields.io/badge/_OS-Linux-FF4500?style=flat-square&logo=linux&logoColor=white" />
 
 - <img src="https://img.shields.io/badge/🛠_Editors-VS_Code_&_Windsurf-8B0000?style=flat-square&logo=visualstudiocode&logoColor=white" />
 
