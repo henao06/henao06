@@ -88,7 +88,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=henao06&label=Profile%20views&color=8B0000&style=for-the-badge" alt="henao06" />
 </p>
-dsdfwsa
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF4500&height=120&section=footer"/>
 </p>
