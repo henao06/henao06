@@ -47,9 +47,6 @@
   <img src="https://streak-stats.demolab.com/?user=henao06&theme=radical&hide_border=true&border_radius=15" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henao06&theme=radical&show_icons=true&hide_border=true&layout=compact&border_radius=15" width="40%" />
-</p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
