@@ -43,12 +43,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<h3 align="center">GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henao06&theme=radical&show_icons=true&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=henao06&theme=radical&hide_border=true&border_radius=15" width="48%" />
-</p>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
