@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Sebastian</h1>
+
 <p align="center">
   <img src="itachi_animation_by_luisbentoart_dc1x5jz.gif" width="300" />
 </p>
@@ -6,7 +8,6 @@
  <img src="https://komarev.com/ghpvc/?username=henao06&label=Profile%20views&color=0e75b6&style=flat" alt="henao06" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sebastian</h1>
 <h3 align="center">Developer & Student passionate about building things with code</h3>
 <p align="center">I love turning ideas into reality through clean code. Always learning, always building.</p>
 
