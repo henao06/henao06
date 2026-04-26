@@ -13,7 +13,14 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,github,python,docker,mysql" alt="Tech Stack" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="69" height="69" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="69" height="69" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="69" height="69" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="69" height="69" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="69" height="69" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="69" height="69" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="69" height="69" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="69" height="69" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
