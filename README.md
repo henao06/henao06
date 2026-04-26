@@ -38,6 +38,12 @@
 
 - <img src="https://img.shields.io/badge/⚡_Fun_Fact-I_code,_therefore_I_am-8B0000?style=flat-square" />
 
+- <img src="https://img.shields.io/badge/🐧_OS-Linux-FF4500?style=flat-square&logo=linux&logoColor=white" />
+
+- <img src="https://img.shields.io/badge/🛠_Editors-VS_Code_&_Windsurf-8B0000?style=flat-square&logo=visualstudiocode&logoColor=white" />
+
+- <img src="https://img.shields.io/badge/🚀_Goal-Full_Stack_Developer-FF4500?style=flat-square" />
+
 <br><br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
