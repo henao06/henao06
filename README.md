@@ -8,8 +8,9 @@
  <img src="https://komarev.com/ghpvc/?username=henao06&label=Profile%20views&color=0e75b6&style=flat" alt="henao06" />
 </p>
 
-<h3 align="center">Developer & Student passionate about building things with code</h3>
-<p align="center">I love turning ideas into reality through clean code. Always learning, always building.</p>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Developer+%26+Student;Python+%7C+React+%7C+JavaScript;Always+learning%2C+always+building;Clean+code+enthusiast" alt="Typing SVG" /></a>
+</p>
 
 
 <p align="center">
