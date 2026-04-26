@@ -25,20 +25,20 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center">About Me</h3>
-
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br>
+<br><br>
 
-```yaml
-name: Sebastian
-located_in: Colombia
-current_focus: Python & React
-fun_fact: "I code, therefore I am"
-contact: uberhenao06@gmail.com
-```
+- <img src="https://img.shields.io/badge/🔭_Working_on-Personal_Projects-8B0000?style=flat-square" />
 
-<br><br><br><br>
+- <img src="https://img.shields.io/badge/🌱_Learning-Python_&_React-FF4500?style=flat-square" />
+
+- <img src="https://img.shields.io/badge/👨‍💻_Role-Developer_&_Student-8B0000?style=flat-square" />
+
+- <img src="https://img.shields.io/badge/📫_Contact-uberhenao06@gmail.com-FF4500?style=flat-square" />
+
+- <img src="https://img.shields.io/badge/⚡_Fun_Fact-I_code,_therefore_I_am-8B0000?style=flat-square" />
+
+<br><br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
