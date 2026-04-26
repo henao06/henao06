@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sebastian</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=7F3FBF&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Sebastian" alt="Typing SVG" /></a>
+</p>
 
 <p align="center">
   <img src="itachi.gif" width="300" />
