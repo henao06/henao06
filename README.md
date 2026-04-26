@@ -46,9 +46,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<p align="center">
-<a href="mailto:uberhenao06@gmail.com"><img src="https://img.shields.io/badge/Email-uberhenao06%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+
 
 
 <p align="center">
