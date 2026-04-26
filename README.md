@@ -1,7 +1,9 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" />
   <img src="itachi_animation_by_luisbentoart_dc1x5jz.gif" width="300" />
-  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" />
+</p>
+
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=henao06&label=Profile%20views&color=0e75b6&style=flat" alt="henao06" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
