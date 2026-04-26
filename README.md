@@ -1,16 +1,13 @@
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" />
   <img src="itachi_animation_by_luisbentoart_dc1x5jz.gif" width="300" />
+  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" />
 </p>
-
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <h3 align="center">Developer & Student passionate about building things with code</h3>
 <p align="center">I love turning ideas into reality through clean code. Always learning, always building.</p>
 
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=henao06-&label=Profile%20views&color=0e75b6&style=flat" alt="henao06-" />
-</p>
 
 <p align="center">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="69" height="69" />
