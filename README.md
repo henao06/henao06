@@ -57,7 +57,7 @@
 <h3 align="center">Activity Graph</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=henao06&custom_title=Sebastian's%20Contribution%20Graph&bg_color=141321&color=fe428e&line=a9fef7&point=f8d847&area_color=fe428e&title_color=fe428e&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=henao06&custom_title=Sebastian%20Contribution%20Graph&bg_color=141321&color=fe428e&line=a9fef7&point=f8d847&area_color=fe428e&title_color=fe428e&area=true&hide_border=true" width="95%"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
