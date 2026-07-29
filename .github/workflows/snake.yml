@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Snake
 
 on:
   schedule:
@@ -12,12 +12,11 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: henao06
-          background_color: '#000'
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&background_color=#000
+            dist/github-snake.svg?background_color=%23000
+            dist/github-snake-dark.svg?palette=github-dark&background_color=%23000
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
