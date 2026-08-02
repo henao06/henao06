@@ -147,7 +147,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:8B0000&height=120&section=footer" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90D9,100:8250DF&height=120&section=footer"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:8B0000&height=120&section=footer&bg_color=transparent" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90D9,100:8250DF&height=120&section=footer&bg_color=transparent"/>
   </picture>
 </p>
