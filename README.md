@@ -130,6 +130,12 @@
       <img src="https://img.shields.io/badge/GitHub-8250DF?style=for-the-badge&logo=github&logoColor=white" />
     </picture>
   </a>
+  <a href="https://cv-sebastian-zapata.pages.dev/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CV-8B0000?style=for-the-badge&logo=googledocs&logoColor=white" />
+      <img src="https://img.shields.io/badge/CV-4A90D9?style=for-the-badge&logo=googledocs&logoColor=white" />
+    </picture>
+  </a>
 </p>
 
 <p align="center">
