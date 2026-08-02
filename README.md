@@ -57,8 +57,8 @@
   </picture>
 
 - <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/⚡_Fun_Fact-I_code,_therefore_I_am-8B0000?style=flat-square" />
-    <img src="https://img.shields.io/badge/⚡_Fun_Fact-I_code,_therefore_I_am-4A90D9?style=flat-square" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/⚡_Role-Full_Stack-8B0000?style=flat-square" />
+    <img src="https://img.shields.io/badge/⚡_Role-Full_Stack-4A90D9?style=flat-square" />
   </picture>
 
 - <picture>
@@ -86,7 +86,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=henao06&custom_title=Sebastian's%20Contribution%20Graph&bg_color=141321&color=fe428e&line=a9fef7&point=f8d847&area_color=fe428e&title_color=fe428e&area=true&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=henao06&custom_title=%20Contribution%20&bg_color=141321&color=fe428e&line=a9fef7&point=f8d847&area_color=fe428e&title_color=fe428e&area=true&hide_border=true" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=henao06&custom_title=Sebastian's%20Contribution%20Graph&theme=github-light&area=true&hide_border=true" width="95%"/>
   </picture>
 </p>
@@ -147,7 +147,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF4500&height=120&section=footer" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:8B0000&height=120&section=footer" />
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90D9,100:8250DF&height=120&section=footer"/>
   </picture>
 </p>
