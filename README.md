@@ -138,12 +138,12 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=henao06&label=Profile%20views&color=8B0000&style=for-the-badge" />
     <img src="https://komarev.com/ghpvc/?username=henao06&label=Profile%20views&color=4A90D9&style=for-the-badge" alt="henao06" />
   </picture>
-</p>
+</p> -->
 
 <p align="center">
   <picture>
