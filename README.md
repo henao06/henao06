@@ -87,7 +87,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=henao06&custom_title=%20Contribution%20&bg_color=141321&color=fe428e&line=a9fef7&point=f8d847&area_color=fe428e&title_color=fe428e&area=true&hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=henao06&custom_title=Sebastian's%20Contribution%20Graph&theme=github-light&area=true&hide_border=true" width="95%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=henao06&custom_title=contributions&theme=github-light&area=true&hide_border=true" width="95%"/>
   </picture>
 </p>
 
