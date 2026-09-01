@@ -85,10 +85,13 @@
 <h3 align="center">Activity Graph</h3>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=henao06&custom_title=%20Contribution%20&bg_color=141321&color=fe428e&line=a9fef7&point=f8d847&area_color=fe428e&title_color=fe428e&area=true&hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=henao06&custom_title=contributions&theme=github-light&area=true&hide_border=true" width="95%"/>
-  </picture>
+  <a href="https://github.com/henao06">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=henao06&bg_color=141321&color=ffffff&line=a9fef7&point=f8d847&area_color=fe428e&title_color=fe428e&area=true&hide_border=true&custom_title=Contribution%20Graph" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=henao06&bg_color=ffffff&color=000000&line=fe428e&point=fe428e&area_color=fe428e&title_color=000000&area=true&hide_border=true&custom_title=Contribution%20Graph" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=henao06&theme=github-light&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
+    </picture>
+  </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
