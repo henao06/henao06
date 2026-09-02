@@ -17,19 +17,49 @@
 </p>
 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="69" height="69" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="69" height="69" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="69" height="69" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="69" height="69" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="69" height="69" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="69" height="69" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="69" height="69" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="69" height="69" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://techstack-generator.vercel.app/js-icon.svg" />
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="69" height="69" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://techstack-generator.vercel.app/ts-icon.svg" />
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="69" height="69" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://techstack-generator.vercel.app/react-icon.svg" />
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="69" height="69" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://techstack-generator.vercel.app/github-icon.svg" />
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="69" height="69" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://techstack-generator.vercel.app/python-icon.svg" />
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="69" height="69" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://techstack-generator.vercel.app/docker-icon.svg" />
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="69" height="69" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://techstack-generator.vercel.app/mysql-icon.svg" />
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="69" height="69" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://techstack-generator.vercel.app/restapi-icon.svg" />
+    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="69" height="69" />
+  </picture>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</picture>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+</picture>
 <br><br>
 
 - <picture>
@@ -74,9 +104,12 @@
 
 <br><br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</picture>
 
 <p align="center">
   <picture>
@@ -86,7 +119,10 @@
   </picture>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</picture>
 
 <h3 align="center">Snake eating my contributions</h3>
 
@@ -108,7 +144,10 @@
   </picture>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</picture>
 
 <h3 align="center">Connect with me</h3>
 
