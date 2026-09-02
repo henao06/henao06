@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/badge/Goal-Full_Stack_Developer-8250DF?style=flat-square" />
   </picture>
 
-<br><br><br>
+<br>
 
 
 
@@ -110,7 +110,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </picture>
-
+<br>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-activity-chart.vercel.app/graph?username=henao06&bg_color=141321&color=ffffff&line=a9fef7&point=f8d847&area_color=fe428e&title_color=fe428e&area=true&hide_border=true&custom_title=Contribution%20Graph" />
