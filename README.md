@@ -1,10 +1,8 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=8B0000&center=true&vCenter=true&width=450&repeat=false&lines=Hi+%F0%9F%91%8B%2C+I'm+Sebastian" />
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=4A90D9&center=true&vCenter=true&width=450&repeat=false&lines=Hi+%F0%9F%91%8B%2C+I'm+Sebastian" alt="Typing SVG" />
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=8B0000&center=true&vCenter=true&width=450&repeat=false&lines=Hi+%F0%9F%91%8B%2C+I'm+Sebastian" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=4A90D9&center=true&vCenter=true&width=450&repeat=false&lines=Hi+%F0%9F%91%8B%2C+I'm+Sebastian" alt="Typing SVG" />
+  </picture>
 </p>
 
 <!-- <p align="center">
@@ -12,12 +10,10 @@
 </p> -->
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=Developer+%26+Student;Python+%7C+React+%7C+JavaScript;Always+learning%2C+always+building;Clean+code+enthusiast" />
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4A90D9&center=true&vCenter=true&width=600&lines=Developer+%26+Student;Python+%7C+React+%7C+JavaScript;Always+learning%2C+always+building;Clean+code+enthusiast" alt="Typing SVG" />
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=Developer+%26+Student;Python+%7C+React+%7C+JavaScript;Always+learning%2C+always+building;Clean+code+enthusiast" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4A90D9&center=true&vCenter=true&width=600&lines=Developer+%26+Student;Python+%7C+React+%7C+JavaScript;Always+learning%2C+always+building;Clean+code+enthusiast" alt="Typing SVG" />
+  </picture>
 </p>
 
 <p align="center">
@@ -37,28 +33,28 @@
 <br><br>
 
 - <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/🔭_Working_on-Personal_Projects-8B0000?style=flat-square" />
-    <img src="https://img.shields.io/badge/🔭_Working_on-Personal_Projects-4A90D9?style=flat-square" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Working_on-Personal_Projects-8B0000?style=flat-square" />
+    <img src="https://img.shields.io/badge/Working_on-Personal_Projects-4A90D9?style=flat-square" />
   </picture>
 
 - <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/🌱_Learning-Python_&_React-FF4500?style=flat-square" />
-    <img src="https://img.shields.io/badge/🌱_Learning-Python_&_React-8250DF?style=flat-square" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Learning-Python_&_React-FF4500?style=flat-square" />
+    <img src="https://img.shields.io/badge/Learning-Python_&_React-8250DF?style=flat-square" />
   </picture>
 
 - <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/👨‍💻_Role-Developer_&_Student-8B0000?style=flat-square" />
-    <img src="https://img.shields.io/badge/👨‍💻_Role-Developer_&_Student-4A90D9?style=flat-square" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Role-Developer_&_Student-8B0000?style=flat-square" />
+    <img src="https://img.shields.io/badge/Role-Developer_&_Student-4A90D9?style=flat-square" />
   </picture>
 
 - <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/📫_Contact-uberhenao06@gmail.com-FF4500?style=flat-square" />
-    <img src="https://img.shields.io/badge/📫_Contact-uberhenao06@gmail.com-8250DF?style=flat-square" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Contact-uberhenao06@gmail.com-FF4500?style=flat-square" />
+    <img src="https://img.shields.io/badge/Contact-uberhenao06@gmail.com-8250DF?style=flat-square" />
   </picture>
 
 - <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/⚡_Role-Full_Stack-8B0000?style=flat-square" />
-    <img src="https://img.shields.io/badge/⚡_Role-Full_Stack-4A90D9?style=flat-square" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Role-Full_Stack-8B0000?style=flat-square" />
+    <img src="https://img.shields.io/badge/Role-Full_Stack-4A90D9?style=flat-square" />
   </picture>
 
 - <picture>
@@ -67,13 +63,13 @@
   </picture>
 
 - <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/🛠_Editors-VS_Code_&_Windsurf-8B0000?style=flat-square&logo=visualstudiocode&logoColor=white" />
-    <img src="https://img.shields.io/badge/🛠_Editors-VS_Code_&_Windsurf-4A90D9?style=flat-square&logo=visualstudiocode&logoColor=white" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Editors-VS_Code_&_Windsurf-8B0000?style=flat-square&logo=visualstudiocode&logoColor=white" />
+    <img src="https://img.shields.io/badge/Editors-VS_Code_&_Windsurf-4A90D9?style=flat-square&logo=visualstudiocode&logoColor=white" />
   </picture>
 
 - <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/_Goal-Full_Stack_Developer-FF4500?style=flat-square" />
-    <img src="https://img.shields.io/badge/_Goal-Full_Stack_Developer-8250DF?style=flat-square" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Goal-Full_Stack_Developer-FF4500?style=flat-square" />
+    <img src="https://img.shields.io/badge/Goal-Full_Stack_Developer-8250DF?style=flat-square" />
   </picture>
 
 <br><br><br>
@@ -83,13 +79,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <a href="https://github.com/henao06">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=henao06&bg_color=141321&color=ffffff&line=a9fef7&point=f8d847&area_color=fe428e&title_color=fe428e&area=true&hide_border=true&custom_title=Contribution%20Graph" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=henao06&bg_color=ffffff&color=000000&line=fe428e&point=fe428e&area_color=fe428e&title_color=000000&area=true&hide_border=true&custom_title=Contribution%20Graph" />
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=henao06&theme=github-light&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-activity-chart.vercel.app/graph?username=henao06&bg_color=141321&color=ffffff&line=a9fef7&point=f8d847&area_color=fe428e&title_color=fe428e&area=true&hide_border=true&custom_title=Contribution%20Graph" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-activity-chart.vercel.app/graph?username=henao06&bg_color=ffffff&color=000000&line=fe428e&point=fe428e&area_color=fe428e&title_color=000000&area=true&hide_border=true&custom_title=Contribution%20Graph" />
+    <img src="https://github-activity-chart.vercel.app/graph?username=henao06&theme=github-light&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+  </picture>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -119,24 +113,18 @@
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
-  <a href="mailto:uberhenao06@gmail.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-      <img src="https://img.shields.io/badge/Gmail-4A90D9?style=for-the-badge&logo=gmail&logoColor=white" />
-    </picture>
-  </a>
-  <a href="https://github.com/henao06">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-8250DF?style=for-the-badge&logo=github&logoColor=white" />
-    </picture>
-  </a>
-  <a href="https://cv-sebastian-zapata.pages.dev/" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CV-8B0000?style=for-the-badge&logo=googledocs&logoColor=white" />
-      <img src="https://img.shields.io/badge/CV-4A90D9?style=for-the-badge&logo=googledocs&logoColor=white" />
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-4A90D9?style=for-the-badge&logo=gmail&logoColor=white" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-8250DF?style=for-the-badge&logo=github&logoColor=white" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CV-8B0000?style=for-the-badge&logo=googledocs&logoColor=white" />
+    <img src="https://img.shields.io/badge/CV-4A90D9?style=for-the-badge&logo=googledocs&logoColor=white" />
+  </picture>
 </p>
 
 <!-- <p align="center">
