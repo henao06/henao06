@@ -73,13 +73,8 @@
   </picture>
 
 - <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Role-Developer_&_Student-8B0000?style=flat-square" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Occupation-Developer_&_Student-8B0000?style=flat-square" />
     <img src="https://img.shields.io/badge/Role-Developer_&_Student-4A90D9?style=flat-square" />
-  </picture>
-
-- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Contact-uberhenao06@gmail.com-FF4500?style=flat-square" />
-    <img src="https://img.shields.io/badge/Contact-uberhenao06@gmail.com-8250DF?style=flat-square" />
   </picture>
 
 - <picture>
@@ -88,20 +83,9 @@
   </picture>
 
 - <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Sistema_Operativo-Linux-FF4500?style=flat-square&logo=linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/Sistema_Operativo-Linux-8250DF?style=flat-square&logo=linux&logoColor=white" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Operating_system-Linux-FF4500?style=flat-square&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Operating_system-Linux-8250DF?style=flat-square&logo=linux&logoColor=white" />
   </picture>
-
-- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Editors-VS_Code_&_Windsurf-8B0000?style=flat-square&logo=visualstudiocode&logoColor=white" />
-    <img src="https://img.shields.io/badge/Editors-VS_Code_&_Windsurf-4A90D9?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  </picture>
-
-- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Goal-Full_Stack_Developer-FF4500?style=flat-square" />
-    <img src="https://img.shields.io/badge/Goal-Full_Stack_Developer-8250DF?style=flat-square" />
-  </picture>
-
 <br>
 
 
