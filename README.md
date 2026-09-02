@@ -152,18 +152,18 @@
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    <img src="https://img.shields.io/badge/Gmail-4A90D9?style=for-the-badge&logo=gmail&logoColor=white" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-8250DF?style=for-the-badge&logo=github&logoColor=white" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CV-8B0000?style=for-the-badge&logo=googledocs&logoColor=white" />
-    <img src="https://img.shields.io/badge/CV-4A90D9?style=for-the-badge&logo=googledocs&logoColor=white" />
-  </picture>
+  <a href="mailto:sebasprogram37@gmail.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gmail-4A90D9?style=for-the-badge&logo=gmail&logoColor=white" />
+    </picture>
+  </a>
+  <a href="https://cv-sebastian-zapata.pages.dev/" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CV-8B0000?style=for-the-badge&logo=googledocs&logoColor=white" />
+      <img src="https://img.shields.io/badge/CV-4A90D9?style=for-the-badge&logo=googledocs&logoColor=white" />
+    </picture>
+  </a>
 </p>
 
 <!-- <p align="center">
